@@ -3,7 +3,7 @@
   "downloadUrl": "google.com",
   "minimumVersionCode": 6,
   "notice": {
-    "id": "2026-06-07-welcome",
-    "body": "G'day from Ray — hope the quotes are flowing. Tap Settings → Send feedback if anything's off."
+    "id": "2026-06-06-followup",
+    "body": "Quick update — new build fixes the PDF share bug. Cheers, Ray."
   }
 }
