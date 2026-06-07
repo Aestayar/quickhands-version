@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 6,
+  "downloadUrl": "https://expo.dev/artifacts/eas/YOUR-APK-HERE.apk",
+  "minimumVersionCode": 6,
+  "notice": {
+    "id": "2026-06-06-welcome",
+    "body": "G'day from Ray — hope the quotes are flowing. Tap Settings → Send feedback if anything's off."
+  }
+}
